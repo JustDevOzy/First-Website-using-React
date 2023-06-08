@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../image/bleon.png"
+import logo from "../image/logo.png"
 const Service = () => {
     return ( 
             <section id="services">

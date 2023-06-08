@@ -1,0 +1,31 @@
+.services-title{
+    font-size: 4rem;
+    font-weight: 300;
+    margin-bottom: 10px;
+    letter-spacing: .2rem;
+    text-align: center;
+
+}
+.services-title span{
+    color: crimson;
+}
+
+#projects .projects{
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+#projects .project-header h1{
+    margin-bottom: 50px;
+
+}
+
+#projects.all-projects{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}

@@ -6,17 +6,6 @@
     padding: 100px 0;
 }
 
-#services .services-title{
-    font-size: 4rem;
-    font-weight: 300;
-    margin-bottom: 10px;
-    letter-spacing: .2rem;
-    text-align: center;
-
-}
-#services .service-title span{
-    color: crimson;
-}
 
 #services .service-top p{
     font-size: 1.4rem;
@@ -85,3 +74,14 @@ img{
     font-size: 1.4rem;
 }
 
+#services .services-title{
+    font-size: 4rem;
+    font-weight: 300;
+    margin-bottom: 10px;
+    letter-spacing: .2rem;
+    text-align: center;
+
+}
+#services .service-title span{
+    color: crimson;
+}
